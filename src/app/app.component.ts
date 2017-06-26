@@ -8,6 +8,7 @@ import { PeopleService } from './people.service';
   styleUrls: ['./app.component.scss'],
   providers: [PeopleService]
 })
+
 export class AppComponent {
-  title = 'app';
+  title = 'Star Wars Characters';
 }
